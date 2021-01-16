@@ -11,3 +11,16 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+
+.nav-item1 {
+  margin-right: 60%;
+}
+
+div.container {
+  padding: 0px;
+}
+
+.i {
+  margin: 50%;
+  width: 60%;
+}
